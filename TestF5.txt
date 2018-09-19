@@ -1,0 +1,16 @@
+git branching commands
+
+git config
+git push
+git add
+git status
+git pull
+got commit
+git checkout
+git remote
+git show
+git branching
+git merge
+git clone
+git push --set-upstream
+git log
